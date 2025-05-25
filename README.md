@@ -17,3 +17,6 @@ A modern, user-role-based **Library Management System** built with **Java**, **M
 - Maven
 - FontAwesomeFX (UI icons)
 - FXML (JavaFX UI)
+
+
+![Image](https://github.com/user-attachments/assets/a5984238-a9e6-4287-a8e5-ae935a77269e)
